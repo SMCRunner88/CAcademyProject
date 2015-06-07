@@ -1,4 +1,4 @@
-# CAcademyProjects
+<h1>Vacation Destinations<h1>
 =================
 
-These are projects that stood out to me on Codeacademy that I completed. 
+Website that features places I've lived as vacation destinations. Based on Codeacademy's "Build a Website" project.
